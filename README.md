@@ -10,7 +10,7 @@
   <img src="https://media2.giphy.com/media/vOmwKEisrvV53EvKHz/200w.webp?cid=790b761101qo07x86gd0qni82ba6rwkgw02rub5ar96zan2q&ep=v1_stickers_search&rid=200w.webp&ct=s" width="150"/>
 </div>
 
-- 🖥️ I’m currently working on [Fan Game](https://www.youtube.com/watch?v=71XUKkundp8)  
+- 🖥️ I’m currently working on [Initial D Fan Game](https://www.youtube.com/watch?v=71XUKkundp8)  
   
 
 - 💻  I’m currently learning: C++ with UE5  
