@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+# Ivan Gomez
   
 
 ### <div align="center">I'm Ivan, I have been a game developer 👾 for a year and a half. 🚀</div>  
