@@ -1,16 +1,22 @@
-# Ivan Gomez
-  
+# <div align="center"> Ivan Gomez <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZobnQxNzJ6bXZ0bWw4dXljd3cwNW5kOGRhaGJzbWdyeWZ2eTIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="30"/></div>
 
-### <div align="center">I'm Ivan, I have been a game developer 👾 for a year and a half. 🚀</div>  
+<div id="header" align="center">
   
+</div>
+
+### <div align="center">Hi, at the moment I'm working as a game developer using Unreal Engine (5 and 4) 👾.</div>
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/vOmwKEisrvV53EvKHz/200w.webp?cid=790b761101qo07x86gd0qni82ba6rwkgw02rub5ar96zan2q&ep=v1_stickers_search&rid=200w.webp&ct=s" width="150"/>
+</div>
 
 - 🖥️ I’m currently working on [Fan Game](https://www.youtube.com/watch?v=71XUKkundp8)  
   
 
-- 💻  I’m currently learning C++ with UE5  
+- 💻  I’m currently learning: C++ with UE5  
   
 
-- 📖 I'm currently reading The Pragmatic Programmer  
+- 📖 I'm currently reading: The Pragmatic Programmer  
   
 
 - ⚡ Fun fact: O_O  
@@ -18,11 +24,9 @@
 
 <br/>  
 
-
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Programming Languages  
 <div align="center">  
@@ -37,13 +41,14 @@
 
 </td><td valign="top" width="33%">
 
+### Software  
 <div align="center">  
-  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM5aXF3MDAxeWM2Nzd0bjV6YmdqM3BxcGIwNWZjdTR0dzBhenY1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" 
+width="50"/>
+<img src="https://imgs.search.brave.com/xAGJ3S1GM4bfaaSfiISF0LcSk0tXcWUX8gN3uMU44xY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4y/LnVucmVhbGVuZ2lu/ZS5jb20vdWUtbG9n/by1zdGFja2VkLXVu/cmVhbC1lbmdpbmUt/dy02Nzd4NTQ1LWZh/YzExZGUwOTQzZi5w/bmc" width="70"/>
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -51,6 +56,9 @@
 
 
 ## Connect with me  
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJyMnRvdHN2dmt2d3BiYzEzc3QxbzRvamkzN2h2dWR3ZnBlcWFuOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJsjsm6dhNPiQBvztq/200w.webp" width="150"/> 
+</div>
 <div align="center">
 <a href="https://github.com/IvanGQDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
