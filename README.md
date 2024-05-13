@@ -79,7 +79,13 @@ width="50"/>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IvanGQDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://media1.giphy.com/media/FPsnQkFXlz0g8/giphy.webp?cid=790b7611fa2i6slz4aj36bc5l2ymawh3zgczluiphxav5ka6&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="90"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanGQDev&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://media2.giphy.com/media/bVsrSr4QbbZny/giphy.webp?cid=790b7611fa2i6slz4aj36bc5l2ymawh3zgczluiphxav5ka6&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="120"/>
+  
+</div>  
 
 <br/>  
 
