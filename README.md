@@ -20,15 +20,14 @@
   
 
 - ⚡ Fun fact: O_O  
-  
 
 <br/>  
 
-## My Skill Set  
+## <div align=center>My Skill Set</div>  
 
-<table><tr><td valign="top" width="33%">
+<table align=center><tr><td valign="top" width="33%">
 
-### Programming Languages  
+### <div align=center>Programming Languages</div>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -41,7 +40,7 @@
 
 </td><td valign="top" width="33%">
 
-### Software  
+### <div align=center>Software<div>
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -55,7 +54,7 @@ width="50"/>
 <br/>  
 
 
-## Connect with me  
+## <div align=center>Connect with me</div>  
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJyMnRvdHN2dmt2d3BiYzEzc3QxbzRvamkzN2h2dWR3ZnBlcWFuOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iJsjsm6dhNPiQBvztq/200w.webp" width="150"/> 
 </div>
@@ -78,7 +77,7 @@ width="50"/>
 <br/>  
 
 
-## Github Stats  
+## <div align=center>Github Stats</div>  
 <div align="center">
   <img src="https://media1.giphy.com/media/FPsnQkFXlz0g8/giphy.webp?cid=790b7611fa2i6slz4aj36bc5l2ymawh3zgczluiphxav5ka6&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="90"/>
   
