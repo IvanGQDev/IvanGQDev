@@ -13,7 +13,7 @@
 - 🖥️ I’m currently working on [Initial D Fan Game](https://www.youtube.com/watch?v=71XUKkundp8)  
   
 
-- 💻  I’m currently learning: C++ with UE5  
+- 💻  I’m currently learning: React & EJS  
   
 
 - 📖 I'm currently reading: The Pragmatic Programmer  
